@@ -3,7 +3,6 @@ button {
   border: none;
   outline: none;
   cursor: pointer;
-  size: 1000px;
 }
 .on {
   color: rgb(255, 238, 0);;
